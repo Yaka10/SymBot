@@ -1,4 +1,4 @@
-{
+@Mysymbehi_bot{
 	"password": "",
 	"mongo_db_url": "",
 	"max_log_days": 10,
